@@ -53,7 +53,7 @@ The following steps were carried out during model development:
 ## Models Implemented
 
 | # | Model Description |
----
+| - | ----------------- |
 | 1 | Logistic Regression |
 | 2 | Stochastic Gradient Descent (SGD Classifier) | 
 | 3 | Logistic Regression (Hyperparameter Tuned) |
@@ -76,9 +76,8 @@ The following steps were carried out during model development:
 ### Model Performance Comparison
 
 | Model | Accuracy |
----
-| XGBoost | 0.6192 | 
----
+| ----- | -------- |
+| **XGBoost** | **0.6192** | 
 | LightGBM | 0.6174 |
 | Random Forest | 0.6097 |
 | Logistic Regression | 0.5928 |
